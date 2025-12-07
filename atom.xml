@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Evan 的 Blog</title>
+  <title>貓咪受風寒的 Blog</title>
   
   <subtitle>貓</subtitle>
-  <link href="https://blog.catoverload.dev/atom.xml" rel="self"/>
+  <link href="https://blog.sneezycat.dev/atom.xml" rel="self"/>
   
-  <link href="https://blog.catoverload.dev/"/>
+  <link href="https://blog.sneezycat.dev/"/>
   <updated>2025-04-22T09:06:05.000Z</updated>
-  <id>https://blog.catoverload.dev/</id>
+  <id>https://blog.sneezycat.dev/</id>
   
   <author>
     <name>Evan Chang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>mac preview 程式截圖透明背景</title>
-    <link href="https://blog.catoverload.dev/2025/04/22/mac-preview-trans-cap/"/>
-    <id>https://blog.catoverload.dev/2025/04/22/mac-preview-trans-cap/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/22/mac-preview-trans-cap/"/>
+    <id>https://blog.sneezycat.dev/2025/04/22/mac-preview-trans-cap/</id>
     <published>2025-04-22T09:06:05.000Z</published>
     <updated>2025-04-22T09:06:05.000Z</updated>
     
@@ -36,21 +36,21 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="macOS" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/macOS/"/>
+    <category term="macOS" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/macOS/"/>
     
     
-    <category term="macOS" scheme="https://blog.catoverload.dev/tags/macOS/"/>
+    <category term="macOS" scheme="https://blog.sneezycat.dev/tags/macOS/"/>
     
-    <category term="Preview" scheme="https://blog.catoverload.dev/tags/Preview/"/>
+    <category term="Preview" scheme="https://blog.sneezycat.dev/tags/Preview/"/>
     
   </entry>
   
   <entry>
     <title>Codex CLI 介紹</title>
-    <link href="https://blog.catoverload.dev/2025/04/17/codex_cli-intro/"/>
-    <id>https://blog.catoverload.dev/2025/04/17/codex_cli-intro/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/17/codex_cli-intro/"/>
+    <id>https://blog.sneezycat.dev/2025/04/17/codex_cli-intro/</id>
     <published>2025-04-17T00:42:33.000Z</published>
     <updated>2025-04-17T00:42:33.000Z</updated>
     
@@ -66,21 +66,21 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="AI 工具" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/AI-%E5%B7%A5%E5%85%B7/"/>
+    <category term="AI 工具" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/AI-%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="Codex CLI" scheme="https://blog.catoverload.dev/tags/Codex-CLI/"/>
+    <category term="Codex CLI" scheme="https://blog.sneezycat.dev/tags/Codex-CLI/"/>
     
-    <category term="OpenAI" scheme="https://blog.catoverload.dev/tags/OpenAI/"/>
+    <category term="OpenAI" scheme="https://blog.sneezycat.dev/tags/OpenAI/"/>
     
   </entry>
   
   <entry>
     <title>aerospace mac 的平鋪視窗管理器</title>
-    <link href="https://blog.catoverload.dev/2025/04/16/aerospace-intro/"/>
-    <id>https://blog.catoverload.dev/2025/04/16/aerospace-intro/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/16/aerospace-intro/"/>
+    <id>https://blog.sneezycat.dev/2025/04/16/aerospace-intro/</id>
     <published>2025-04-16T10:07:24.000Z</published>
     <updated>2025-04-16T10:07:24.000Z</updated>
     
@@ -96,23 +96,23 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="macOS" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/macOS/"/>
+    <category term="macOS" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/macOS/"/>
     
     
-    <category term="AeroSpace" scheme="https://blog.catoverload.dev/tags/AeroSpace/"/>
+    <category term="AeroSpace" scheme="https://blog.sneezycat.dev/tags/AeroSpace/"/>
     
-    <category term="Tiling Window Manager" scheme="https://blog.catoverload.dev/tags/Tiling-Window-Manager/"/>
+    <category term="Tiling Window Manager" scheme="https://blog.sneezycat.dev/tags/Tiling-Window-Manager/"/>
     
-    <category term="macOS" scheme="https://blog.catoverload.dev/tags/macOS/"/>
+    <category term="macOS" scheme="https://blog.sneezycat.dev/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>analytics error in fluid</title>
-    <link href="https://blog.catoverload.dev/2025/04/09/analytics-error-in-fluid/"/>
-    <id>https://blog.catoverload.dev/2025/04/09/analytics-error-in-fluid/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/09/analytics-error-in-fluid/"/>
+    <id>https://blog.sneezycat.dev/2025/04/09/analytics-error-in-fluid/</id>
     <published>2025-04-09T01:07:15.000Z</published>
     <updated>2025-04-09T01:07:15.000Z</updated>
     
@@ -128,23 +128,23 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="Hexo" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/Hexo/"/>
     
     
-    <category term="Hexo" scheme="https://blog.catoverload.dev/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.sneezycat.dev/tags/Hexo/"/>
     
-    <category term="Fluid 主題" scheme="https://blog.catoverload.dev/tags/Fluid-%E4%B8%BB%E9%A1%8C/"/>
+    <category term="Fluid 主題" scheme="https://blog.sneezycat.dev/tags/Fluid-%E4%B8%BB%E9%A1%8C/"/>
     
-    <category term="Google Analytics" scheme="https://blog.catoverload.dev/tags/Google-Analytics/"/>
+    <category term="Google Analytics" scheme="https://blog.sneezycat.dev/tags/Google-Analytics/"/>
     
   </entry>
   
   <entry>
     <title>Squarespace</title>
-    <link href="https://blog.catoverload.dev/2025/04/08/googledomains2squarespace/"/>
-    <id>https://blog.catoverload.dev/2025/04/08/googledomains2squarespace/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/08/googledomains2squarespace/"/>
+    <id>https://blog.sneezycat.dev/2025/04/08/googledomains2squarespace/</id>
     <published>2025-04-08T14:37:16.000Z</published>
     <updated>2025-04-08T14:37:16.000Z</updated>
     
@@ -160,25 +160,25 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="網域" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/%E7%B6%B2%E5%9F%9F/"/>
+    <category term="網域" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/%E7%B6%B2%E5%9F%9F/"/>
     
     
-    <category term="Google Domains" scheme="https://blog.catoverload.dev/tags/Google-Domains/"/>
+    <category term="Google Domains" scheme="https://blog.sneezycat.dev/tags/Google-Domains/"/>
     
-    <category term="Squarespace" scheme="https://blog.catoverload.dev/tags/Squarespace/"/>
+    <category term="Squarespace" scheme="https://blog.sneezycat.dev/tags/Squarespace/"/>
     
-    <category term="domain registrar" scheme="https://blog.catoverload.dev/tags/domain-registrar/"/>
+    <category term="domain registrar" scheme="https://blog.sneezycat.dev/tags/domain-registrar/"/>
     
-    <category term="Godaddy" scheme="https://blog.catoverload.dev/tags/Godaddy/"/>
+    <category term="Godaddy" scheme="https://blog.sneezycat.dev/tags/Godaddy/"/>
     
   </entry>
   
   <entry>
     <title>IQL 介紹</title>
-    <link href="https://blog.catoverload.dev/2025/04/08/iql/"/>
-    <id>https://blog.catoverload.dev/2025/04/08/iql/</id>
+    <link href="https://blog.sneezycat.dev/2025/04/08/iql/"/>
+    <id>https://blog.sneezycat.dev/2025/04/08/iql/</id>
     <published>2025-04-08T03:19:05.000Z</published>
     <updated>2025-04-08T03:19:05.000Z</updated>
     
@@ -195,29 +195,29 @@
     
     
     
-    <category term="Machine Learning" scheme="https://blog.catoverload.dev/categories/Machine-Learning/"/>
+    <category term="Machine Learning" scheme="https://blog.sneezycat.dev/categories/Machine-Learning/"/>
     
-    <category term="Reinforcement Learning" scheme="https://blog.catoverload.dev/categories/Machine-Learning/Reinforcement-Learning/"/>
+    <category term="Reinforcement Learning" scheme="https://blog.sneezycat.dev/categories/Machine-Learning/Reinforcement-Learning/"/>
     
     
-    <category term="Offline RL" scheme="https://blog.catoverload.dev/tags/Offline-RL/"/>
+    <category term="Offline RL" scheme="https://blog.sneezycat.dev/tags/Offline-RL/"/>
     
-    <category term="Implicit Q-Learning" scheme="https://blog.catoverload.dev/tags/Implicit-Q-Learning/"/>
+    <category term="Implicit Q-Learning" scheme="https://blog.sneezycat.dev/tags/Implicit-Q-Learning/"/>
     
-    <category term="IQL" scheme="https://blog.catoverload.dev/tags/IQL/"/>
+    <category term="IQL" scheme="https://blog.sneezycat.dev/tags/IQL/"/>
     
-    <category term="Expectile Regression" scheme="https://blog.catoverload.dev/tags/Expectile-Regression/"/>
+    <category term="Expectile Regression" scheme="https://blog.sneezycat.dev/tags/Expectile-Regression/"/>
     
-    <category term="Temporal Difference Learning" scheme="https://blog.catoverload.dev/tags/Temporal-Difference-Learning/"/>
+    <category term="Temporal Difference Learning" scheme="https://blog.sneezycat.dev/tags/Temporal-Difference-Learning/"/>
     
-    <category term="Q-Learning" scheme="https://blog.catoverload.dev/tags/Q-Learning/"/>
+    <category term="Q-Learning" scheme="https://blog.sneezycat.dev/tags/Q-Learning/"/>
     
   </entry>
   
   <entry>
     <title>Package Your Hexo</title>
-    <link href="https://blog.catoverload.dev/2024/03/16/package-hexo/"/>
-    <id>https://blog.catoverload.dev/2024/03/16/package-hexo/</id>
+    <link href="https://blog.sneezycat.dev/2024/03/16/package-hexo/"/>
+    <id>https://blog.sneezycat.dev/2024/03/16/package-hexo/</id>
     <published>2024-03-15T20:43:15.000Z</published>
     <updated>2024-03-15T20:43:15.000Z</updated>
     
@@ -234,14 +234,14 @@
     
     
     
-    <category term="技術筆記" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
+    <category term="技術筆記" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/"/>
     
-    <category term="Hexo" scheme="https://blog.catoverload.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.sneezycat.dev/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/Hexo/"/>
     
     
-    <category term="hexo" scheme="https://blog.catoverload.dev/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.sneezycat.dev/tags/hexo/"/>
     
-    <category term="github" scheme="https://blog.catoverload.dev/tags/github/"/>
+    <category term="github" scheme="https://blog.sneezycat.dev/tags/github/"/>
     
   </entry>
   
