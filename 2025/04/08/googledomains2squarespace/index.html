@@ -479,8 +479,8 @@
   <div id="waline"></div>
   <script type="text/javascript">
     Fluid.utils.loadComments('#waline', function() {
-      Fluid.utils.createCssLink('https://lib.baomitu.com/waline/2.14.1/waline.css')
-      Fluid.utils.createScript('https://lib.baomitu.com/waline/2.14.1/waline.js', function() {
+      Fluid.utils.createCssLink('https://registry.npmmirror.com/@waline/client/2.15.8/files/dist/waline.css')
+      Fluid.utils.createScript('https://registry.npmmirror.com/@waline/client/2.15.8/files/dist/waline.js', function() {
         var options = Object.assign(
           {"serverURL":"https://waline.sneezycat.dev/","path":"window.location.pathname","meta":["nick","mail","link"],"requiredMeta":[],"lang":"en","emoji":["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"],"dark":"html[data-user-color-scheme=\"dark\"]","wordLimit":0,"pageSize":10,"reaction":["https://unpkg.com/@waline/emojis@1.1.0/alus/alus_thumbsup.png","https://unpkg.com/@waline/emojis@1.1.0/alus/alus_helpless.png","https://unpkg.com/@waline/emojis@1.1.0/alus/alus_wise.png","https://unpkg.com/@waline/emojis@1.1.0/alus/alus_pick_nose.png","https://unpkg.com/@waline/emojis@1.1.0/alus/alus_expressionless.png","https://unpkg.com/@waline/emojis@1.1.0/alus/alus_sob.png"],"locale":{"nick":"暱稱","nickError":"暱稱不能少於3個字","mail":"信箱","mailError":"請填寫正確的郵件地址","link":"網址","optional":"可選","placeholder":"說點什麼吧！","sofa":"來留言吧~","submit":"提交","like":"喜歡","cancelLike":"取消喜歡","reply":"回覆","cancelReply":"取消回覆","comment":"留言","refresh":"刷新","more":"加載更多...","preview":"預覽","emoji":"表情","uploadImage":"上傳圖片","seconds":"秒前","minutes":"分鐘前","hours":"小時前","days":"天前","now":"剛剛","uploading":"正在上傳","login":"登入","logout":"登出","admin":"博主","sticky":"置頂","word":"字","wordHint":"評論字數應在 $0 到 $1 字之間！\\n當前字數：$2","anonymous":"匿名","level0":"潜水","level1":"冒泡","level2":"吐槽","level3":"活跃","level4":"话痨","level5":"传说","gif":"表情包","gifSearchPlaceholder":"搜尋表情包","profile":"個人資料","approved":"通過","waiting":"待審核","spam":"垃圾","unsticky":"取消置頂","oldest":"按倒序","latest":"按正序","hottest":"按熱度","reactionTitle":"你認為這篇文章怎麼樣？"}},
           {
@@ -645,7 +645,7 @@
   </script>
 
 
-<script  src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
 <script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
 <script  src="/js/events.js" ></script>
 <script  src="/js/plugins.js" ></script>
@@ -678,7 +678,7 @@
 
   
 <script>
-  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.18.2/tocbot.min.js', function() {
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
     var toc = jQuery('#toc');
     if (toc.length === 0 || !window.tocbot) { return; }
     var boardCtn = jQuery('#board-ctn');
@@ -723,7 +723,7 @@
 
   
 <script>
-  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/5.0.0/anchor.min.js', function() {
     window.anchors.options = {
       placement: CONFIG.anchorjs.placement,
       visible  : CONFIG.anchorjs.visible
