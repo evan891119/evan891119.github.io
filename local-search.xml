@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>AskLog: AI 時代的公共知識</title>
+    <link href="/2026/02/26/AskLog-AI-%E6%99%82%E4%BB%A3%E7%9A%84%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AD%98/"/>
+    <url>/2026/02/26/AskLog-AI-%E6%99%82%E4%BB%A3%E7%9A%84%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AD%98/</url>
+    
+    <content type="html"><![CDATA[<script src="/js/dateUp.js"></script><h2 id="這是啥">這是啥?</h2><p>一個由我和 codex 開發的平台。<br>最一開始想做這個東西是因為看到 Stack Overflow 使用率大幅下滑 ，不少<a href="https://www.devclass.com/ai-ml/2026/01/05/dramatic-drop-in-stack-overflow-questions-as-devs-look-elsewhere-for-help/4079575">相關的報導</a>都有提到這件事。<br><img src="/img/AskLog/StackOverflow-Questions.png" alt="Stack Overflow 使用率"><br>這讓我想到一個問題：<br>現在模型訓練用的資料，應該有一部份是 Stack Overflow 這種問答式網站。當這種網站慢慢沒人用時，未來模型資料來源是什麼？</p><p>新時代還是會有新知識新提問，但如果大家都問 AI 沒人公開討論或驗證答案，模型自行用自己輸出的資料迭代更新，我想結果會越來越偏離正確答案。</p><p>所以我做了一個平台，用來存放大家與 AI 的對話紀錄。<br>利用跟 Stack Overflow 類似的投票方式 (vote) ，讓大家來確認模型回答的真實性，也可以留言補充與討論。</p><p>有一個優點是：<br>你可以把重要的 AI 對話整理在這裡，在這網站快速搜尋。可以放一些你常用的工具簡介。忘記怎麼做就來這網站查，不用再翻 ChatGPT 或 Gemini 的聊天紀錄。</p><h2 id="成果展示">成果展示</h2><p><a href="https://asklog.sneezycat.dev/">AskLog</a><br>裡面有 About 頁面簡單介紹這個網站。</p><p>目前不提供使用者自行註冊帳號。有需要註冊帳號可以在下方留言，或是來我的 Discord 或 Matrix 問我（連結在部落格 About 頁面）。<br>如果發現 bug 或有建議，歡迎在群組提出。<br>讓我們一起讓這個世界變得更好！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>網站介紹</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>asklog</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>mac preview 程式截圖透明背景</title>
     <link href="/2025/04/22/mac-preview-trans-cap/"/>
     <url>/2025/04/22/mac-preview-trans-cap/</url>
